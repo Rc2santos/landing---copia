@@ -69,7 +69,7 @@ button {
 }
 
 button.iniciar {
-    background-color: #dd2929;
+    background-color: #00000096;
     color: white;
 }
 
@@ -150,7 +150,9 @@ main {
 }
 
 button.comprar {
-    background-color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.397);
+    color: white;
+    font-weight: bolder;
 }
 
 .tiers ul {
